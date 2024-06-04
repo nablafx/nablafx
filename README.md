@@ -4,11 +4,6 @@
 
 <p align="left">My name is Fu Zhang, From Zhengzhou, China.</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FortyIX/FortyIX/output/snake.svg" alt="Snake animation" />
 
 ###
 
