@@ -11,7 +11,12 @@
 
 ###
 
-<p align="left">✨ Started programming since 2009<br>📚 MSc in Advanced Computing @ King's College London<br>🎯 Goals:  Bringing a better life for all patients using computing technologies.</p>
+<p align="left">
+  ✨ Started programming since 2009<br>
+  👨‍💻 Former Software Engineer @ Huawei <br>
+  📚 MSc in Advanced Computing @ King's College London<br>
+  ⚽ Fan of Arsenal fC
+  🎯 Goals:  Bringing a better life for all patients using computing technologies.</p>
 
 ###
 
