@@ -1,25 +1,12 @@
-<h1 align="left">Hey  😎  How are you doing!</h1>
 
-###
-
-<p align="left">My name is Fu Zhang, From Zhengzhou, China.</p>
-
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  ✨ Started programming since 2009<br>
-  👨‍💻 Former Software Engineer @ Huawei <br>
-  ⚽ Fan of Arsenal FC <br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FortyIX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 ###
 
-<h2 align="left">I currently code with</h2>
+<h2 align="left">I  code with</h2>
 
 ###
 
@@ -81,10 +68,8 @@
 
 
 ###
-## Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FortyIX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+  ✨ Started programming since 2009<br>
+  ⚽ Fan of Arsenal FC <br>
 
-###
