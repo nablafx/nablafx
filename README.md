@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">More abuot me</h2>
+<h2 align="left">More about me</h2>
 <p align="left"> 
   ✨ Started programming since 2009<br>
   ⚽ Fan of Arsenal FC <br>
